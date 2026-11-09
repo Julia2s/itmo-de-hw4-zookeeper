@@ -1,0 +1,20 @@
+﻿После проверки отказа одного узла: docker compose ps
+NAME                  IMAGE             COMMAND                  SERVICE   CREATED      STATUS          PORTS
+hw4-zookeeper-zk1-1   zookeeper:3.9.6   "/docker-entrypoint.…"   zk1       3 days ago   Up 49 minutes   0.0.0.0:2181->2181/tcp, [::]:2181->2181/tcp
+hw4-zookeeper-zk2-1   zookeeper:3.9.6   "/docker-entrypoint.…"   zk2       3 days ago   Up 2 minutes    0.0.0.0:2182->2181/tcp, [::]:2182->2181/tcp
+hw4-zookeeper-zk3-1   zookeeper:3.9.6   "/docker-entrypoint.…"   zk3       3 days ago   Up 4 minutes    0.0.0.0:2183->2181/tcp, [::]:2183->2181/tcp
+Команда: docker compose exec zk1 zkServer.sh status
+ZooKeeper JMX enabled by default
+Using config: /conf/zoo.cfg
+Client port found: 2181. Client address: localhost. Client SSL: false.
+Mode: follower
+Команда: docker compose exec zk2 zkServer.sh status
+ZooKeeper JMX enabled by default
+Using config: /conf/zoo.cfg
+Client port found: 2181. Client address: localhost. Client SSL: false.
+Mode: follower
+Команда: docker compose exec zk3 zkServer.sh status
+ZooKeeper JMX enabled by default
+Using config: /conf/zoo.cfg
+Client port found: 2181. Client address: localhost. Client SSL: false.
+Mode: leader

@@ -1,0 +1,1402 @@
+combo,frequency
+linux,2190
+kubernetes,1862
+docker,1850
+devops,1319
+ansible,1252
+python,1058
+ci/cd,1044
+bash,925
+postgresql,892
+grafana,830
+git,733
+prometheus,668
+jenkins,662
+gitlab,628
+nginx,551
+terraform,482
+zabbix,480
+elk,437
+администрирование серверов linux,391
+sql,338
+kafka,328
+gitlab ci,248
+rabbitmq,213
+mysql,210
+helm,170
+redis,164
+aws,161
+teamcity,160
+java,148
+elasticsearch,143
+k8s,142
+openshift,132
+clickhouse,120
+mongodb,119
+tcp/ip,117
+iac,104
+администрирование,102
+ms sql,101
+oracle,98
+golang,97
+powershell,96
+английский язык,89
+vmware,88
+базы данных,85
+openstack,81
+unix,80
+субд,75
+apache kafka,71
+nexus,71
+atlassian jira,70
+go,69
+docker-compose,61
+groovy,61
+azure devops,53
+php,53
+debian,52
+ms sql server,52
+kvm,51
+windows server,51
+centos,50
+yandex cloud,48
+работа с базами данных,45
+haproxy,44
+sre,44
+proxmox,42
+sentry,41
+ubuntu,41
+circleci,40
+информационные технологии,40
+argocd,38
+hadoop,38
+kibana,37
+azure,34
+node.js,34
+windows,34
+ceph,33
+nosql,33
+puppet,33
+администрирование серверов windows,32
+hyper-v,31
+atlassian confluence,29
+bitbucket,29
+cmake,29
+keycloak,29
+мониторинг,29
+devsecops,28
+javascript,28
+apache,27
+ubuntu server,27
+автоматизация процессов,27
+работа в команде,27
+c++,26
+telegraf,26
+filebeat,24
+информационная безопасность,24
+diamond,23
+graphite,23
+http,23
+shell scripting,23
+spark,23
+vpn,23
+деловая коммуникация,23
+сетевые технологии,23
+.net framework,22
+cassandra,22
+shell,22
+astra linux,21
+scrum,21
+удаленная работа,21
+iptables,20
+jira,20
+техническая поддержка,20
+c#,19
+dns,19
+graylog,19
+iis,19
+rest,19
+rhel,19
+администрирование серверов,19
+настройка dns,19
+apache maven,18
+github,18
+loki,18
+victoriametrics,18
+виртуализация,18
+управление командой,18
+ci,17
+dhcp,17
+gitlabci,17
+gradle,17
+windows os,17
+active directory,16
+apache http server,16
+etl,16
+greenplum,16
+sast,16
+автоматизация,16
+consul,15
+dast,15
+minio,15
+mssql,15
+vault,15
+victoria metrics,15
+администрирование сетевого оборудования,15
+микросервисная архитектура,15
+airflow,14
+apache airflow,14
+agile,13
+apache cassandra,13
+api,13
+docker swarm,13
+istio,13
+nomad,13
+octopus,13
+osi,13
+sonarqube,13
+настройка сетевых подключений,13
+техническая документация,13
+управление проектами,13
+efk,12
+etcd,12
+hashicorp vault,12
+it,12
+mariadb,12
+ml,12
+patroni,12
+rest api,12
+ssh,12
+инженерная инфраструктура и сети,12
+agile project management,11
+gcp,11
+site reliability engineering,11
+автоматизация технологических процессов,11
+организаторские навыки,11
+c/c++,10
+cloudflare,10
+computer troubleshooting,10
+docker compose,10
+gitops,10
+harbor,10
+iot,10
+jaeger,10
+ms powerpoint,10
+network,10
+"node.js, typescript/javascript, react, kubernetes, docker, ansible, github/gitlab, terraform",10
+opennebula,10
+openvpn,10
+ruby,10
+yandex.cloud,10
+artifactory,9
+chef,9
+cloud,9
+elastic,9
+elk stack,9
+html,9
+kestrel,9
+lxc,9
+maven,9
+pipeline,9
+postgres,9
+база данных: oracle,9
+обучение и развитие,9
+ответственность,9
+пользователь пк,9
+системное администрирование,9
+умение принимать решения,9
+barman,8
+continuous integration,8
+ios,8
+mikrotik,8
+opensearch,8
+podman,8
+redmine,8
+sql server,8
+terragrunt,8
+unix shell scripts,8
+высшее образование,8
+настройка по,8
+настройка серверов,8
+настройка серверов apache,8
+проведение презентаций,8
+системный подход,8
+схд,8
+тестирование,8
+1с,7
+ai,7
+alertmanager,7
+apache tomcat,7
+bamboo,7
+baremetal,7
+ci/сd,7
+ci\cd,7
+cisco,7
+confluence,7
+dataops,7
+digitalocean,7
+dwh,7
+gitlab ci/cd,7
+helmchart,7
+json,7
+kubespray,7
+ldap,7
+mlops,7
+nexus\artifactory,7
+pgbouncer,7
+prometeus,7
+redos,7
+saltstack,7
+sca,7
+soap,7
+ssdlc,7
+t-sql,7
+virtualization,7
+vk cloud,7
+аналитическое мышление,7
+ит-инфраструктура,7
+основы программирования,7
+подготовка презентаций,7
+продвинутый пользователь пк,7
+системное мышление,7
+aix,6
+cd,6
+databases,6
+dockerfile,6
+esxi,6
+ftp,6
+google cloud,6
+gpu,6
+iaas,6
+ibm power,6
+information security,6
+kanban,6
+keepalived,6
+mlflow,6
+paas,6
+perl,6
+swarm,6
+voip,6
+was,6
+внедрение систем информационной безопасности,6
+лидерские качества,6
+микросервисы,6
+работа с большим объемом информации,6
+разработка платформы,6
+разработка технических заданий,6
+системный администратор,6
+1с-битрикс,5
+amazon web services,5
+camunda bpm,5
+css,5
+dba,5
+docker/podman,5
+embedded camunda,5
+ethernet,5
+iperf,5
+json api,5
+linux/windows,5
+loky,5
+ms azure devops server,5
+netfilter,5
+nftables,5
+nifi,5
+portainer,5
+proxy,5
+pxe,5
+s3,5
+scala,5
+siem,5
+smtp/pop3/imap,5
+strace,5
+subversion,5
+tdorp,5
+terrasoft crm,5
+typescript,5
+virtualbox,5
+wireshark,5
+xcode,5
+визуализация данных,5
+деловая переписка,5
+деловое общение,5
+контроль исполнения решений,5
+многозадачность,5
+ориентация на результат,5
+проектная документация,5
+работа с оргтехникой,5
+разработка по,5
+техническое обслуживание,5
+.net,4
+1с программирование,4
+agrocd,4
+android,4
+big data,4
+camunda,4
+ccna,4
+cdn,4
+ci/cd/cdp,4
+cloud native,4
+cue,4
+debian-based,4
+elk-стек,4
+firewall,4
+firewalld,4
+freebsd,4
+grpc,4
+helm charts,4
+helpdesk,4
+intouch,4
+jmeter,4
+js,4
+junior,4
+jvm,4
+kafka/rabbitmq,4
+kms,4
+kotlin,4
+kubernetes on-prem,4
+kubernetes/docker,4
+kubernetes/openshift,4
+kubernets,4
+liquibase,4
+llm,4
+logstash,4
+lua,4
+machine learning,4
+make,4
+nagios,4
+nix,4
+nixos,4
+nlp,4
+onescript,4
+oracle-linux,4
+os/k8s,4
+osa,4
+owasp,4
+promtail,4
+rabbit,4
+react,4
+ruby on rails,4
+san,4
+scylladb,4
+seaweedfs,4
+service mesh,4
+ssl/tls,4
+swift,4
+tarantooldb,4
+ufw,4
+vbscript,4
+wildfly,4
+wincc,4
+youtrack,4
+администрирование баз данных,4
+администрирование ос,4
+администрирование сайтов,4
+анализ данных,4
+архитектура,4
+битрикс24,4
+веб-программирование,4
+ключастром,4
+менеджмент,4
+настройка пк,4
+немецкий язык,4
+ос windows,4
+резервное копирование,4
+руководство коллективом,4
+сontainerd,4
+серверное оборудование,4
+системная интеграция,4
+умение работать в коллективе,4
+умение работать в условиях многозадачности,4
+установка по,4
+цод,4
+.net core,3
+1c:edt,3
+1с:исполнитель,3
+apache nifi,3
+apache spark,3
+appsec,3
+architecture,3
+asic,3
+asp.net,3
+asterisk,3
+astra,3
+astralinux,3
+aws sdk,3
+bacula,3
+bareos,3
+bgp,3
+bsimm,3
+buildah,3
+ci/cd security,3
+cloud security,3
+cloudfront,3
+cloudwatch,3
+container security,3
+d-link,3
+django framework,3
+doker,3
+elma,3
+erp-системы на базе 1с,3
+etc,3
+fastapi,3
+flask,3
+foreman,3
+gitlab-ci,3
+gitlub,3
+helm chart,3
+hive,3
+http proxy,3
+hypersonic sql,3
+ipsec,3
+iron python,3
+itsm,3
+jboss,3
+jfrog artifactory,3
+junior devops,3
+kubernetis,3
+lamp,3
+linux server,3
+manticore search,3
+microsoft,3
+ms windows,3
+nat,3
+opensource-технологии,3
+openziti,3
+ovirt,3
+pipeline java/python/nodejs,3
+rancher,3
+redhat,3
+rtl,3
+saas,3
+salt,3
+samm,3
+sbercloud,3
+scada,3
+scripting,3
+sla,3
+spring,3
+spring boot,3
+spring framework,3
+ssl,3
+tarantool,3
+tcp,3
+uml,3
+vector,3
+vmware esxi,3
+websockets,3
+zookeeper,3
+автоматизация build/deployment,3
+"администрирование rabbitmq, kafka",3
+администрирование web-проектов,3
+администрирование windows,3
+администрирование реляционных бд,3
+активные продажи,3
+амбициозность,3
+внутренний контроль,3
+грамотность,3
+демонстрация по заказчику,3
+доброжелательность,3
+контейнеризация,3
+криптопро csp,3
+настройка vps/vds серверов,3
+обучение пользователей,3
+ос linux,3
+планирование проекта,3
+поддержка пользователей,3
+пожарная безопасность,3
+публичные облака,3
+развитие продаж,3
+самостоятельная работа,3
+самостоятельность,3
+сборка пк,3
+сетевое администрирование,3
+системный инженер,3
+системы безопасности,3
+системы охранно-тревожной сигнализации,3
+сопровождение сделок,3
+технические системы и средства безопасности,3
+технические средства информационной защиты,3
+точность и внимательность к деталям,3
+управление отношениями с клиентами,3
+цфт,3
+шина данных,3
+activemq,2
+adem,2
+adtech,2
+agi,2
+allure,2
+ami,2
+ant,2
+apache 2,2
+apm civil engineering,2
+arduino,2
+argo cd,2
+artemis,2
+autocad,2
+awx,2
+"bash, python",2
+bitrix,2
+blockchain,2
+centrifugo/mercure,2
+cfengine,2
+ci/cd pipelines,2
+cisco prime,2
+clean architecture,2
+cloud systems security,2
+composer / npm,2
+console debug,2
+continuous delivery,2
+continuous intergration,2
+cqrs,2
+cистемы управления базами данных,2
+data science analytical platform,2
+ddd,2
+debezium,2
+deploy,2
+docer,2
+docker и kubernetes,2
+dockerswarm,2
+doppler,2
+dpi,2
+elastic search,2
+"elk, grafana, prometheus, jaeger",2
+english,2
+english - intermediate,2
+ericsson soem,2
+fedora,2
+fluent-bit,2
+fluxcd,2
+freeswitch,2
+gcc,2
+git flow,2
+gitea,2
+gitflow,2
+github action,2
+gke,2
+golang go docker redis linux git,2
+grafanagithub,2
+green plum,2
+groove,2
+gtflow,2
+harbor registry,2
+hashicorp,2
+helm 3,2
+html5,2
+http/https,2
+https,2
+huawei nce (u2000),2
+iaac,2
+incindent management,2
+infrastructure-as-code,2
+ip-телефония,2
+java se,2
+java(jvm),2
+jboss fuse,2
+jmx,2
+jquery,2
+"jupyterhub, airflow, spark, kubernetes",2
+k6,2
+"k8s(deckhouse), docker swarm",2
+kaniko,2
+kebernetes,2
+kerberos,2
+kuberenetes,2
+kubernates,2
+kubernetes/helm,2
+kustomize,2
+kybernetes,2
+kyverno,2
+laas/pass,2
+lan,2
+linkerd,2
+linux (ubuntu),2
+linux systems,2
+local ip access networks,2
+logging,2
+masterslave,2
+mattermost,2
+mesh-модели,2
+mongodb cluster,2
+mp-bgp,2
+ms visual studio,2
+"ms windows server,",2
+n8n (lowcode),2
+nats,2
+nfs,2
+nginx http server,2
+"nginx, haproxy",2
+noc,2
+nokia nfmp,2
+observability,2
+"oc linux (rhel, centos",2
+odbs,2
+olap,2
+openai,2
+openresty,2
+opentelemetry,2
+oracle database,2
+oracle linux,2
+oracle pl/sql,2
+osisoft,2
+patroni+etcd,2
+percona cluster,2
+pipelines,2
+pnmsj,2
+posgresql,2
+"postgresql, redis, rabbitmq",2
+postgressql,2
+prod/pre-prod,2
+qmake,2
+quality gates,2
+quantbox (xroad),2
+rabbitmq/kafka,2
+raid,2
+raspberry,2
+rational unified process,2
+rsyslog,2
+rust,2
+scripting languages,2
+selenium,2
+selenium ide,2
+sli,2
+slo,2
+sql dbms,2
+sql запросы,2
+sqlalchemy,2
+squid,2
+ssl\mtls,2
+stm32,2
+svn,2
+swagger,2
+systemd,2
+"tcp/ip, dns, http(s)",2
+templating,2
+teradata,2
+"terraform, ansible",2
+tfs,2
+tftp,2
+tls/ssl,2
+toolchain,2
+traefik,2
+traefik ingress,2
+triton,2
+troubleshooting,2
+tslrest api,2
+unix (centos),2
+unreal engine,2
+vcloud,2
+vdi,2
+veeam,2
+vertica,2
+vlan,2
+vsphere,2
+vuejs,2
+web-сокет,2
+werf,2
+winnum,2
+wsus,2
+xml,2
+xslt,2
+yaml,2
+yandexcloud,2
+zabbix agent,2
+zipkin,2
+автоматизация производства,2
+администрирование 1с,2
+администрирование k8s,2
+администрирование kubernetes,2
+администрирование ос unix/linux,2
+анализ,2
+анализ продаж,2
+аналитика продаж,2
+архитектор,2
+ас торо (sap).,2
+асу тп,2
+бд,2
+бухгалтерский учет,2
+веб-разработка,2
+ведение отчетности,2
+ведение переписки,2
+вовлеченность в проекты,2
+высокая ответственность,2
+гис,2
+грамотная речь,2
+деловое лидерство,2
+документальное сопровождение,2
+дружелюбие,2
+исполнительность,2
+кис емиас,2
+коммуникативные навыки,2
+лидерство,2
+навыки продаж,2
+написание процедур,2
+настройка почтовых серверов,2
+облачные технологии,2
+ооп,2
+организация встреч,2
+ответственность и исполнительность,2
+оценка потребностей клиентов,2
+работа с текущей базой клиентов,2
+работать в команде,2
+разработка документации,2
+разработка нового продукта,2
+ред ос,2
+решение проблем,2
+"сетевые протоколы ip, mac, dns",2
+системы мониторинга сетей,2
+сопровождение проектов,2
+сопровождение субд,2
+"способность анализировать проблемы, эффективно искать пути их решения",2
+стрессоустойчивость,2
+субд postgresql,2
+"телефонные переговоры, прием и обработка заказов",2
+техническая защита информации,2
+техническая экспертиза,2
+умение работать в режиме многозадачности,2
+умение работать с большими объемами информации,2
+управление процессами,2
+управленческие навыки,2
+хорошая обучаемость,2
+цфт-банк,2
+яндекс облако,2
+*nix,1
+*nix systems,1
+1c,1
+1c: erp,1
+2 группа по электробезопасности,1
+2 линия,1
+absible,1
+acronis,1
+activemq artemis,1
+aiohttp,1
+air-gapped network,1
+alert manager,1
+altium designer,1
+amazon,1
+amq,1
+ansible playbooks,1
+ansimble,1
+aosp,1
+apache hadoop,1
+apache jmeter,1
+apache registry,1
+apache2,1
+api gateway,1
+application insights,1
+application security,1
+aqa,1
+arena data db,1
+arenadata,1
+artifactory/nexus,1
+asoc,1
+astra linix,1
+asyncio,1
+atlassian,1
+awk,1
+azure cloud,1
+azure devops server (tfs),1
+azuredevops,1
+bach,1
+backend разработка,1
+bare metal,1
+bare-metal,1
+bash / python / go,1
+"bash, python, yaml",1
+bash/powershell,1
+batch,1
+bi,1
+bitbacket,1
+blue green,1
+blue-green deployment,1
+bpmn,1
+brainy,1
+build/release инженер,1
+bunnycdn,1
+business english,1
+business process management,1
+c,1
+capacity management,1
+cassandra/scylla,1
+centos 7,1
+centos stream,1
+ci cd,1
+ci//cd,1
+ci/argocd,1
+ci/c,1
+"ci/cd (gitlab)git, docker, kubernetes, helm, ansible, субд postgresql, elasticsearch",1
+ci/cd gitlab,1
+ci/cd linux debian,1
+"ci/cd, prometheus, grafana, elk, ansible, no sql",1
+ci/сd процессы,1
+cilium,1
+circle ci,1
+cis ssc,1
+citrix,1
+citus,1
+cli,1
+click house,1
+clickhouse​​​​​​​,1
+clickup,1
+cloud computing,1
+cloudops,1
+cloudstack,1
+cluster autoscaler,1
+cni,1
+cockrоach,1
+codeql,1
+command-line tools,1
+conan,1
+configuration management,1
+confluent,1
+corellation,1
+cri,1
+crowd,1
+cs,1
+csi,1
+dashboard,1
+data engineer,1
+data lake,1
+deb,1
+deckhouse,1
+dell servers,1
+development,1
+development operations,1
+devops enginee,1
+devops engineer,1
+devops инженер,1
+devsec,1
+digital marketing,1
+ditlab,1
+"dlp (devicelock, search inform, spector360)",1
+dock,1
+docker-сompose,1
+dotnet,1
+drone,1
+dsl,1
+dynatrace,1
+elastic etc,1
+elasticksearch,1
+"elasticsearch, logstash, kibana",1
+elk/efk,1
+english b1,1
+envoy,1
+exchange,1
+expect,1
+ffmpeg,1
+figma,1
+flink,1
+fluentbit,1
+fpm,1
+freeipa-server,1
+fullstack,1
+future store,1
+fuzzing,1
+galera cluster,1
+game programming,1
+gatling,1
+gcp (good clinical practice),1
+gdb,1
+get,1
+git / dvc,1
+git python linux docker jenkins,1
+"git, docker, kubernetes, helm, ansible, субд",1
+git/gitlab,1
+git/hg,1
+github\gitlab,1
+gitlab (ci),1
+gitlab ci\cd,1
+"gitlab, ansible, nexus",1
+gnu,1
+gnu / linux,1
+gocd,1
+goland,1
+google devops,1
+google docs,1
+gp,1
+gpt,1
+gradly,1
+grafana / zabbix,1
+grafanа,1
+gragana,1
+graphana,1
+graphql,1
+greylog,1
+hardware in the loop,1
+hashicorpvault,1
+hbase,1
+hdfs,1
+hibernate orm,1
+highload,1
+hil,1
+hpa,1
+hpc,1
+hpe performance center,1
+html/css,1
+httpd,1
+hyperledger,1
+hyperv,1
+hyperv/яндекс облако/esx,1
+iast,1
+ibm,1
+ibso,1
+ids/ips,1
+ignite,1
+impala,1
+influx,1
+ingress,1
+innodb cluster,1
+internet,1
+ip телефония,1
+ipa,1
+ipam,1
+istio service mesh,1
+itil,1
+ixia,1
+java applets,1
+java database,1
+java ee,1
+java servlets,1
+jenkins (scripted pipelines),1
+jetson,1
+jinja,1
+jira/confluence,1
+junior developer,1
+juniper,1
+junit,1
+jvm-related,1
+jwt,1
+kafka streams,1
+kamailio,1
+kaspersky endpoint security,1
+kayobe/kolla-ansible,1
+kuber,1
+kubernates/portainer,1
+kubernenetes,1
+kuberneters,1
+kubernetus,1
+l2tp/ipsec vpn,1
+laravel,1
+leadership skills,1
+learning & development,1
+lemp,1
+libre,1
+liferay,1
+linstor,1
+"linux (debian, astra)",1
+linux network stack,1
+linux os (redhat like),1
+linux servers,1
+linux ubuntu,1
+linux/ubuntu,1
+llm системы,1
+llvm,1
+loadrunner,1
+logstach,1
+lustre,1
+lvm,1
+lxd,1
+macos,1
+makefile,1
+mavlink,1
+memcached,1
+mes,1
+mesos,1
+message brokers,1
+metabase,1
+microservices,1
+middle developer,1
+milvus,1
+miro,1
+mongo,1
+monq,1
+ms access,1
+ms dynamics nav,1
+ms excel,1
+ms exchange,1
+ms office,1
+ms visio,1
+ms windows server,1
+mvn,1
+my sql,1
+mysql replication,1
+navision,1
+netmaker,1
+netops,1
+networking,1
+nginx/haproxy,1
+nginх,1
+ngnix,1
+nist,1
+nosql субд,1
+nsgs,1
+numpy,1
+nvidia mig partitioning,1
+nvm,1
+oci,1
+okd,1
+oltp,1
+on-prem kubernetes,1
+open source,1
+openjdk,1
+openldap,1
+openoffice,1
+openserch,1
+opensource,1
+opentext,1
+opentofu,1
+oracle db,1
+oracle rman,1
+oracle/postgresql,1
+ospf,1
+oss,1
+otrs,1
+ovn,1
+pandas,1
+pci dss,1
+pentesting,1
+people management,1
+percona monitoring and management (pmm),1
+percona xdb,1
+php-fpm,1
+pinecone,1
+pip,1
+pl+,1
+pl/pg sql,1
+platform engeneer,1
+plotly dash,1
+plotlydash,1
+pm2,1
+postgesql,1
+postgre,1
+postgres + patroni,1
+postgres-xl,1
+postgres/oracle,1
+"postgresql, elasticsearch, брокером очередей kafka, nifi",1
+postgresql/postgrespro,1
+postgressql 15,1
+proget,1
+promet,1
+"prometheus, grafana",1
+prometheus/victoriametrics,1
+promtheus,1
+proxmax,1
+psr,1
+pub/sub,1
+pyspark,1
+pytorch,1
+qa,1
+qgis arcgis git/gitlab,1
+quod,1
+r,1
+rabbit mq,1
+radio,1
+raspberry pi,1
+rdbms,1
+react.js,1
+reactjs,1
+realtime,1
+recsys,1
+red os,1
+redash,1
+redpanda,1
+regexp,1
+rethinkdb,1
+risc-v,1
+rook,1
+rosa virtualization,1
+rpm,1
+rtpengine,1
+russian,1
+s3 (minio),1
+san-сети,1
+sbc,1
+scipy,1
+secure sdlc,1
+sed,1
+selectel,1
+semgrep,1
+shiny proxy,1
+simpleone,1
+sip,1
+site reliability engineer,1
+sklearn,1
+sles,1
+slsa,1
+smartbear collaborator,1
+snowflake,1
+snr,1
+soc,1
+sonarqbe,1
+sonatype nexus,1
+sphinx,1
+"sphinx, rabbitmq, clickhouse, redis, tarantool, mongodb, docker, kubernetes.",1
+splunk,1
+splunk enterprise,1
+spring cloud data flow,1
+sre engineer,1
+sre-подход,1
+stio service mesh,1
+strimzi,1
+superset,1
+supply chain security,1
+support,1
+sybase,1
+symfony,1
+system analysis,1
+systemd services,1
+tableau,1
+tbricks,1
+teambuilding,1
+teamcity/jenkins,1
+teamlead,1
+teamleading,1
+temporal,1
+terrafrom,1
+tomcat,1
+topolvm,1
+tpc-ds\tpc-h,1
+transact-sql,1
+trino,1
+tripleo,1
+trivy,1
+ts,1
+udp,1
+unity,1
+vba,1
+vcenter,1
+veritas netbackup,1
+visiology,1
+vmmanager,1
+vms,1
+vmware tanzu,1
+vnet,1
+vnf,1
+vpn-сервера,1
+vrrp,1
+vtol,1
+waf,1
+web-дизайн,1
+webpack,1
+webservers,1
+win,1
+windows server 16-22,1
+wireguard,1
+xcat,1
+xecm,1
+xen,1
+yacloud,1
+yarn,1
+yii,1
+yocto,1
+zabix\grafana,1
+zap,1
+zfs,1
+аnsible,1
+адаптивность,1
+административное право,1
+администрирование ci/cd,1
+администрирование linux,1
+администрирование и управления бд (postgres / clickhouse),1
+администрирование облачного сервиса devops,1
+анализ требований,1
+аналитика,1
+аналитический склад ума,1
+английский - intermediate+,1
+арбитражные суды,1
+аудит безопасности,1
+безопасность по,1
+битрикс 24,1
+бортовое оборудование,1
+бпла,1
+брэо,1
+быстро учусь,1
+ввод оборудования в эксплуатацию,1
+ведение документации,1
+ведение переговоров,1
+ведение технической документации,1
+взаимодействие с контрольными органами,1
+внедрение по,1
+внутренние коммуникации,1
+выездное обслуживание,1
+высшее техническое образование,1
+гост,1
+готовность обучаться,1
+гражданское право,1
+грамотная письменная речь,1
+диагностика систем мониторинга,1
+динамический анализ,1
+документирование,1
+желание обучаться,1
+желание профессионально развиваться,1
+заключение договоров,1
+запуск новых продуктов,1
+инженер данных,1
+инициативность,1
+интеграционное тестирование,1
+интеграция,1
+интеграция программных модулей,1
+ит-архитектура,1
+клавиатура для осьминога,1
+классическое машинное обучение,1
+кодирование информации,1
+коммуникабельность,1
+контроль доступов к информационным ресурсам,1
+контроль качества,1
+конфигурации системы на сервере,1
+красные глаза,1
+криптопро,1
+лидер команды разработки,1
+линейное программирование,1
+логирование,1
+локальные сети,1
+лояльность,1
+масштабирование,1
+межсетевые экраны,1
+методы разработки алгоритмов,1
+микросервис,1
+многопоточность,1
+мобильная связь,1
+мобильность,1
+моделирование,1
+модернизация,1
+модульное тестирование,1
+мозг,1
+монтаж оборудования,1
+навыки решения проблем,1
+нагрузочное тестирование,1
+наставничество,1
+"настройка smtp, imap, dns, nlb",1
+настройка баз данных,1
+настройка систем мониторинга,1
+нереляционные бд,1
+обеспечение антивирусной защиты,1
+облака,1
+обработка информации,1
+обучаемость,1
+обучение в2в,1
+объектные хранилища,1
+операционные системы,1
+оптимизация бизнес-процессов,1
+оптимизация процессов,1
+"опыт работы c docker, kubernetes",1
+опыт работы на позиции релиз менеджера от 4 лет,1
+опыт работы на позиции релиз менеджера/devop sинженера от 4 лет или лидера поддержки от 2 лет,1
+опыт судебных разбирательств,1
+организация мероприятий,1
+ос linuх,1
+отказоустойчивость,1
+отличное знание пк,1
+пайплайн,1
+пакетные менеджеры,1
+параллельные файловые системы,1
+платформа,1
+платформа управления уязвимостями,1
+плк siemens,1
+повелитель консенсуса,1
+поддержка информационных систем,1
+позитив,1
+поиск и привлечение клиентов,1
+построение команды,1
+преподаватель ит курсов,1
+претензионная работа,1
+прикладное администрирование,1
+проведение тестирований,1
+программист,1
+проектирование,1
+проектирование высоконагруженных систем,1
+проектирование инженерных систем,1
+проектная работа,1
+проектный менеджмент,1
+прямые продажи,1
+пунктуальность,1
+работа в crm системе,1
+работа в условиях многозадачности,1
+"работа с git, docker/docker compose",1
+работа с kubernetes/helm,1
+работа с аудиторией,1
+работа с запросами внешних и внутренних клиентов,1
+работа с инцидентами,1
+работа с ос linux,1
+работа с партнерами,1
+работа с юридическими лицами,1
+работа со стеком grafana/prometheus,1
+развертывание,1
+развитие микросервисной инфраструктуры,1
+разработка и внедрение политик и процедур,1
+разработка инструкций,1
+разработка курсов тренингов,1
+распределенные бд,1
+релизы банка,1
+реляционные бд,1
+ремонт пк,1
+рэд виртуализация,1
+рэо,1
+с#,1
+сi/cd,1
+сбор и анализ информации,1
+серверные операционные системы,1
+сервисный ремонт,1
+сетевая безопасность,1
+сетевая инфраструктура,1
+сетевая модель oci,1
+сетевое оборудование,1
+сетевые приложения,1
+системный анализ,1
+системы виртуализации,1
+системы мониторинга,1
+"создание, развитие и ведение клиентской базы",1
+сопровождение linux,1
+сопровождение по,1
+средства криптографической защиты информации,1
+статический анализ,1
+стек elk,1
+стратегический маркетинг,1
+структурное программирование,1
+суды общей юрисдикции,1
+телефонные переговоры,1
+теоретические знания сетевых технологий,1
+терминалы сбора данных,1
+тестирование безопасности,1
+тестирование пользовательского интерфейса,1
+тестовая документация,1
+тестовый стенд,1
+техническая поддержка пользователей,1
+техническая поддержка серверов,1
+техническая поддержка серверов x86,1
+техническая поддержка схд,1
+технологические процессы,1
+тихий лидер,1
+траблшутинг,1
+трансгуманизм,1
+тсp/ip,1
+уверенное знание систем windows,1
+удаленая работа,1
+удаленное администрирование,1
+умение общаться с людьми,1
+умение работать в команде,1
+умение расставлять приоритеты,1
+управление базами данных,1
+управление временем,1
+управление интернет-проектами,1
+управление информационной безопасностью,1
+управление персоналом,1
+управление продажами,1
+установка сетевого по на серверы и рабочие станции,1
+участие в проектах иб,1
+фаззинг-тестирование,1
+фреймворк,1
+функциональное тестирование,1
+хорошие организаторские способности,1
+хранилище,1
+цифровой гигант,1
+электрические системы и слаботочные системы,1
+эцп,1
+юридическая поддержка,1
+юридическое сопровождение,1
+яндекс клауд,1
+яндекс.метрика,1
+яндекс.облако,1
+​​​​​​​hetzner,1
+• docker/cri-o/containerd,1
+• консультирование,1
+• опыт пользования пк,1

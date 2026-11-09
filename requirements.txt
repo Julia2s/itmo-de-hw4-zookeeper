@@ -1,0 +1,3 @@
+boto3>=1.34
+kazoo>=2.10
+psutil>=5.9

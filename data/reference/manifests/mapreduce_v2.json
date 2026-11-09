@@ -1,0 +1,38 @@
+{
+  "tool": "mapreduce_v2",
+  "generated_at": "2026-10-26T15:21:36+00:00",
+  "variant_role": "DevOps-инженер",
+  "filter_mode": "role",
+  "environment": {
+    "python": "3.14.5",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "cpu_count": 16
+  },
+  "input": {
+    "backend": "boto3",
+    "endpoint": "http://localhost:9010",
+    "bucket": "hh-lake",
+    "key": "raw/vacancies.csv",
+    "exists": true,
+    "size_bytes": 847619384,
+    "etag": "efb65458995932747001aa004592d19c-102",
+    "last_modified": "2026-10-26 08:31:15+00:00"
+  },
+  "results": {},
+  "counts": {
+    "lines_total": 229389,
+    "rows_matched": 5158,
+    "rows_with_skills": 3534,
+    "n_skills_1": 1401,
+    "n_skills_2": 20454,
+    "n_skills_3": 144024
+  },
+  "chunk_size_bytes": 8388608,
+  "n_chunks": 102,
+  "timings": {
+    "stat_s": 0.011,
+    "map_s": 12.076,
+    "reduce_write_s": 0.827,
+    "total_s": 12.913
+  }
+}

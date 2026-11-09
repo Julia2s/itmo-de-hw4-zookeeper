@@ -1,0 +1,26 @@
+{
+  "input_key": "raw/vacancies.csv",
+  "chunks": 102,
+  "lines_total": 229389,
+  "rows_matched": 5158,
+  "rows_with_skills": 3534,
+  "lines_malformed": 0,
+  "events_per_k": {
+    "1": 28336,
+    "2": 134651,
+    "3": 506549
+  },
+  "n_skills_1": 1401,
+  "n_skills_2": 20454,
+  "n_skills_3": 144024,
+  "total_frequency": {
+    "1": 28336,
+    "2": 134651,
+    "3": 506549
+  },
+  "files": {
+    "1": "results/hw4/unfenced-20261106-09/coordinator-2/skills_1.csv",
+    "2": "results/hw4/unfenced-20261106-09/coordinator-2/skills_2.csv",
+    "3": "results/hw4/unfenced-20261106-09/coordinator-2/skills_3.csv"
+  }
+}
